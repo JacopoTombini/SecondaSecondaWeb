@@ -4,6 +4,17 @@
 
 -Presenta un sistema di: 
 * **registrazione** 
-* **login** 
+* **modifica**
+* **elimina** 
 
 -Il *template* è stato prelevato da https://html5up.net/ 
+
+### The project
+-This website has been developed using *ASP.NET 5.0*.
+
+-It has a fuctional system of:
+* **sign in**
+* **update**
+* **delete**
+
+-The *template* has been retrieved from https://html5up.net/ 
